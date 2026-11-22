@@ -9,7 +9,7 @@
 
 <br/>
 
-[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20التطبيق%20للويندوز%20(Setup%20.exe)-v1.1.1-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
+[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20التطبيق%20للويندوز%20(Setup%20.exe)-v1.1.2-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
 
 [![الموقع الرسمي](https://img.shields.io/badge/🌐%20موقع%20العائلة-Family%20Team%20Hub-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![تطبيق الأفلام](https://img.shields.io/badge/🎬%20تطبيق%20الأفلام-Family%20Team%20Movies-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
