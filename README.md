@@ -14,6 +14,7 @@
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
 [![FT Launcher](https://img.shields.io/badge/⛏%20FT%20Launcher-Minecraft-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
+[![FT Wallpapers](https://img.shields.io/badge/🖼%20FT%20Wallpapers-4K%20Live-00E5FF?style=for-the-badge&labelColor=070910)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 </div>
 
