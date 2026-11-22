@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Music for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Music%20(Setup%20.exe)-v1.1.4-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
+[![Download FT Music for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Music%20(Setup%20.exe)-v1.1.5-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest/download/FTMusic_Setup.exe)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
@@ -34,7 +34,7 @@
 
 ## 📥 طريقة التحميل والتثبيت (ويندوز 10 / 11 — 64-bit)
 
-1. اضغط على زر **[تحميل أحدث إصدار للويندوز](https://github.com/yousefali20062005/ft-music-app/releases/latest)** وحمّل ملف **`FTMusic_Setup.exe`**.
+1. اضغط على **[تحميل أحدث إصدار للويندوز (`FTMusic_Setup.exe`)](https://github.com/yousefali20062005/ft-music-app/releases/latest/download/FTMusic_Setup.exe)** للتنزيل المباشر دائماً.
 2. شغّل ملف التثبيت:
    > 💡 إذا ظهرت نافذة **Windows SmartScreen** الزرقاء في أول تشغيل فقط، اضغط **`More info` (معلومات إضافية)** ثم **`Run anyway` (التشغيل على أي حال)**.
 3. استمتع بالموسيقى — وسيتم إشعارك تلقائياً داخل التطبيق عند توفر أي تحديث جديد!
