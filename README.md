@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download FT Music for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Music%20(Setup%20.exe)-v1.1.5-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest/download/FTMusic_Setup.exe)
+[![Download FT Music for Windows](https://img.shields.io/badge/⬇%20Download%20FT%20Music%20(Setup%20.exe)-v1.1.6-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest/download/FTMusic_Setup.exe)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Family Team Movies](https://img.shields.io/badge/🎬%20Movies%20%26%20Series-Desktop%20App-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
